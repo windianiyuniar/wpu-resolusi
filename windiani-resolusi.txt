@@ -1,0 +1,5 @@
+Halo pak,nama saya windi orang padang
+
+Resolusi saya:
+  -Membuat website menggunakan framework javascritp
+  -bekerja di start-up
